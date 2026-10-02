@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jarvis-blog-8gb.pages.dev/sitemap.xml
